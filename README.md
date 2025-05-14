@@ -1,2 +1,2 @@
 # machine_learning
-Projeto de predição de preço de casas
+Projeto de predição de preço médio de casas
